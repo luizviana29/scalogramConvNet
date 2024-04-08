@@ -1,1 +1,1 @@
-Arquivos organizados em formado .jpg, separados pelos experimentos propostos.
+Arquivos organizados em formado .jpg (escalogramas), separados pelos experimentos propostos.
