@@ -19,3 +19,5 @@ shan_40_da.ipynb - Colab notebook inserindo técnica de aumento de dados explica
 
 morl_40_aval.ipynb - Colab notebook inserindo técnica de previsão por janelas aleatórias explicada na seção 3.6.
 shan_40_aval.ipynb - Colab notebook inserindo técnica de previsão por janelas aleatórias explicada na seção 3.6.
+
+Geração de Gráficos.ipynb - Arquivo para auxiliar na geração de gráficos comparativos entre os experimentos. Obs: Este arquivo depente da execução dos códigos e geração dos resultados para funcionar.
