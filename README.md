@@ -12,7 +12,7 @@ Os códigos foram desenvolvidos e são melhor executados no ambiente Google Cola
 Os scripts utilizam os arquivos auxiliares abaixo:  
 ConvNet.py - Arquitetura proposta por Schereiber e Müller, 2018.  
 config.py  
-utilies.py
+utilities.py
 
 # Referências
 
