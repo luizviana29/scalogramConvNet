@@ -9,11 +9,9 @@ Link dissertação: https://repositorio.ufba.br/handle/ri/36909
 
 Os códigos foram desenvolvidos e são melhor executados no ambiente Google Colab, para aproveitar a facilidade de uso, a integração com o Google Drive e o acesso a recursos computacionais, como GPUs. A organização dos arquivos e pastas é explicada detalhadamente no arquivo Códigos/readme.md, incluindo a descrição da finalidade de cada script ou notebook.  
 
-Os scripts utilizam os arquivos auxiliares abaixo:
+Os scripts utilizam os arquivos auxiliares abaixo:  
 ConvNet.py - Arquitetura proposta por Schereiber e Müller, 2018.  
-
 config.py  
-
 utilies.py
 
 # Referências
